@@ -7,4 +7,4 @@ Can be run on Windows as an .exe, or as a docker container.
 ```go build -o GoPiChecker.exe .```
 
 ## Docker:
-```docker build https://git.garrettkeith.com/guffelman/GoPiChecker.git#container:docker```
+```docker build -t <tag> .```
